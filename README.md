@@ -65,8 +65,8 @@
 |       체스/step2       | [java-chess/step2](https://github.com/NewWisdom/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/256) |                                        |                                      |
 |    투두리스트/step1    | [js-todo-list-stpe1](https://github.com/NewWisdom/js-todo-list-step1/tree/step1) | [Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/20) |                                        |                                      |
 |    투두리스트/step1    | [js-todo-list-stpe2](https://github.com/NewWisdom/js-todo-list-step2/tree/step1) | [Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/8) |                                        |                                      |
-|        ### 기록        |                                                              |                                                              |                                        |                                      |
 
+### 기록
 #### 블로그 기록
 
 - [[JUnit5] 내가 정리한 JUnit5](https://newwisdom.tistory.com/4)
@@ -277,7 +277,6 @@
 
 * [Level 4. HTTP 서버 구현하기 - 정리](https://newwisdom.tistory.com/94)
 * [Level 4. MVC 프레임워크 구현하기 - 정리](https://newwisdom.tistory.com/102)
-* 정리중
 
 <br>
 
