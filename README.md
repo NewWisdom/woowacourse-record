@@ -271,6 +271,7 @@
 * [@DirtiesContext로 무거워진 인수 테스트 시간을 줄이는 실험을 해봅시다](https://newwisdom.tistory.com/95)
 * [테코톡 정리 - 제네릭](https://newwisdom.tistory.com/100)
 * [테코톡 정리 - 인덱싱](https://newwisdom.tistory.com/103)
+* [Nginx를 이용한 로드 밸런싱, 무중단 배포까지의 고찰](https://newwisdom.tistory.com/105)
 
 #### 미션 정리
 
