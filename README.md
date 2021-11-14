@@ -316,3 +316,14 @@
   - [지원 플랫폼 1.1.0 개발](https://github.com/woowacourse/service-apply/projects/4)
   - [지원 플랫폼 2.0.0 개발](https://github.com/woowacourse/service-apply/projects/5)
   - [지원 플랫폼 2.0.0 QA](https://github.com/woowacourse/service-apply/projects/6)
+
+#### 이외의 코틀린 학습 내용들
+- [Kotlin을 정복해봅시다 1](https://newwisdom.tistory.com/52?category=957669)
+- [Kotlin을 정복해봅시다 2](https://newwisdom.tistory.com/57?category=957669)
+- [Kotlin으로 Spring Rest Docs 삽질하기 (feat. 제작 근로)](https://newwisdom.tistory.com/73?category=957669)
+- [[Kotlin In Action] 1장. 코틀린이란 무엇이며, 왜 필요한가?](https://newwisdom.tistory.com/91?category=957669)
+- [[Kotlin In Action] 2장. 코틀린 기초](https://newwisdom.tistory.com/92?category=957669)
+- [[Kotlin In Action] 3장. 함수 정의와 호출](https://newwisdom.tistory.com/93?category=957669)
+- [[Kotlin In Action] 4장. 클래스, 객체, 인터페이스](https://newwisdom.tistory.com/97?category=957669)
+- [[Kotlin In Action] 5장. 람다로 프로그래밍](https://newwisdom.tistory.com/98?category=957669)
+- [[Kotlin In Action] 6장. 코틀린 타입 시스템](https://newwisdom.tistory.com/99?category=957669)
