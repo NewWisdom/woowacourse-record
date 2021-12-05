@@ -260,7 +260,7 @@
 | JDBC 라이브러리 구현하기/step1& step2 | [jwp-dashboard-jdbc/step1](https://github.com/NewWisdom/jwp-dashboard-jdbc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/13) |  [파즈](https://github.com/Be-poz)  |   [와이비](https://github.com/hybeom0720)   |
 |          조회 성능 개선하기           | [sql-tuning/step1](https://github.com/NewWisdom/sql-tuning/blob/step1/Mission.md) | [Pull Request](https://github.com/woowacourse/sql-tuning/pull/28) |  [피카](https://github.com/pika96)  |     [루트](https://github.com/Junroot)      |
 |      레거시 코드 리팩터링/step1       | [jwp-refactoring/step1](https://github.com/NewWisdom/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/126) | [코기](https://github.com/ecsimsw)  | [김김](https://github.com/tributetothemoon) |
-|      레거시 코드 리팩터링/step2       | [jwp-refactoring/step2](https://github.com/NewWisdom/jwp-refactoring/tree/step2) |                                                              |                                     |                                             |
+|      레거시 코드 리팩터링/step2       | [jwp-refactoring/step2](https://github.com/NewWisdom/jwp-refactoring/tree/step2) |     [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/174)                        |                                     |                                             |
 |      레거시 코드 리팩터링/step3       |                                                              |                                                              |                                     |                                             |
 
 ### 기록
